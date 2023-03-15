@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "msigdbr"]
-	path = msigdbr
-	url = https://github.com/igordot/msigdbr
-	shallow = true
-	registered = true
 [submodule "babelgene"]
 	path = babelgene
 	url = https://github.com/igordot/babelgene
@@ -16,5 +11,10 @@
 [submodule "clustermole"]
 	path = clustermole
 	url = https://github.com/igordot/clustermole
+	shallow = true
+	registered = true
+[submodule "msigdbr"]
+	path = msigdbr
+	url = https://github.com/igordot/msigdbr
 	shallow = true
 	registered = true
