@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "babelgene"]
 	path = babelgene
 	url = https://github.com/igordot/babelgene
-	shallow = true
-	registered = true
 [submodule "clustermole"]
 	path = clustermole
 	url = https://github.com/igordot/clustermole
-	shallow = true
-	registered = true
 [submodule "msigdbr"]
 	path = msigdbr
 	url = https://github.com/igordot/msigdbr
-	shallow = true
-	registered = true
