@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/igordot/igordot.r-universe.dev
 	branch = HEAD
 [submodule "babelgene"]
 	path = babelgene
@@ -11,3 +11,12 @@
 [submodule "msigdbr"]
 	path = msigdbr
 	url = https://github.com/igordot/msigdbr
+[submodule "phenomenalist"]
+	path = phenomenalist
+	url = https://github.com/igordot/phenomenalist
+[submodule "scooter"]
+	path = scooter
+	url = https://github.com/igordot/scooter
+[submodule "varnisch"]
+	path = varnisch
+	url = https://github.com/igordot/varnisch
