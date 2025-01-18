@@ -5,12 +5,18 @@
 [submodule "babelgene"]
 	path = babelgene
 	url = https://github.com/igordot/babelgene
+	branch = *release
 [submodule "clustermole"]
 	path = clustermole
 	url = https://github.com/igordot/clustermole
+	branch = *release
+[submodule "msigdbdf"]
+	path = msigdbdf
+	url = https://github.com/igordot/msigdbdf
 [submodule "msigdbr"]
 	path = msigdbr
 	url = https://github.com/igordot/msigdbr
+	branch = *release
 [submodule "phenomenalist"]
 	path = phenomenalist
 	url = https://github.com/igordot/phenomenalist

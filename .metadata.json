@@ -1,0 +1,14 @@
+[
+  {
+    "package": "babelgene",
+    "releasetag": true
+  },
+  {
+    "package": "clustermole",
+    "releasetag": true
+  },
+  {
+    "package": "msigdbr",
+    "releasetag": true
+  }
+]
