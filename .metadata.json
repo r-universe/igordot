@@ -10,5 +10,9 @@
   {
     "package": "msigdbr",
     "releasetag": true
+  },
+  {
+    "package": "msigdbdf",
+    "releasetag": true
   }
 ]
