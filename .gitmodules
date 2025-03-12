@@ -13,11 +13,11 @@
 [submodule "msigdbdf"]
 	path = msigdbdf
 	url = https://github.com/igordot/msigdbdf
-	branch = *release
+	branch = v24.1.0
 [submodule "msigdbr"]
 	path = msigdbr
 	url = https://github.com/igordot/msigdbr
-	branch = v2023.1.1
+	branch = v10.0.0
 [submodule "phenomenalist"]
 	path = phenomenalist
 	url = https://github.com/igordot/phenomenalist
