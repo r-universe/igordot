@@ -13,7 +13,7 @@
 [submodule "msigdbdf"]
 	path = msigdbdf
 	url = https://github.com/igordot/msigdbdf
-	branch = v24.1.0
+	branch = v24.1.1
 [submodule "msigdbr"]
 	path = msigdbr
 	url = https://github.com/igordot/msigdbr
