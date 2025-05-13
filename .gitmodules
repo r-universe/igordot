@@ -17,7 +17,7 @@
 [submodule "msigdbr"]
 	path = msigdbr
 	url = https://github.com/igordot/msigdbr
-	branch = v10.0.2
+	branch = v24.1.0
 [submodule "phenomenalist"]
 	path = phenomenalist
 	url = https://github.com/igordot/phenomenalist
