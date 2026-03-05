@@ -14,9 +14,5 @@
   {
     "package": "msigdbrdata",
     "releasetag": true
-  },
-  {
-    "package": "msigdbdf",
-    "releasetag": true
   }
 ]
