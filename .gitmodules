@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/igordot/igordot.r-universe.dev
 	branch = HEAD
+[submodule "altmem"]
+	path = altmem
+	url = https://github.com/igordot/altmem
 [submodule "babelgene"]
 	path = babelgene
 	url = https://github.com/igordot/babelgene
