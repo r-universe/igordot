@@ -13,6 +13,9 @@
 	path = clustermole
 	url = https://github.com/igordot/clustermole
 	branch = v1.1.1
+[submodule "copynumber"]
+	path = copynumber
+	url = https://github.com/igordot/copynumber
 [submodule "msigdbr"]
 	path = msigdbr
 	url = https://github.com/igordot/msigdbr
