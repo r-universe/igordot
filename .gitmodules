@@ -16,7 +16,7 @@
 [submodule "msigdbr"]
 	path = msigdbr
 	url = https://github.com/igordot/msigdbr
-	branch = v26.1.0
+	branch = v26.1.1
 [submodule "msigdbrdata"]
 	path = msigdbrdata
 	url = https://github.com/igordot/msigdbrdata
