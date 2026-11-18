@@ -27,6 +27,9 @@
 [submodule "phenomenalist"]
 	path = phenomenalist
 	url = https://github.com/igordot/phenomenalist
+[submodule "rthologs"]
+	path = rthologs
+	url = https://github.com/igordot/rthologs
 [submodule "scooter"]
 	path = scooter
 	url = https://github.com/igordot/scooter
